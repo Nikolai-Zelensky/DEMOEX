@@ -1,0 +1,10 @@
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\bin\Debug\BD_Demo.exe.config
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\bin\Debug\BD_Demo.exe
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\bin\Debug\BD_Demo.pdb
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.csproj.AssemblyReference.cache
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.Form1.resources
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.Properties.Resources.resources
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.csproj.GenerateResource.cache
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.exe
+\\iscsi\profiles\VolhinMP\Desktop\DemoDemoExamin\Applicaation\BD_Demo\obj\Debug\BD_Demo.pdb

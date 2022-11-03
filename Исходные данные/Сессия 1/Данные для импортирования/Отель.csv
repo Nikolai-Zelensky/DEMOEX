@@ -1,0 +1,103 @@
+Название отеля;Звезды;Мест;Адрес;Страна;Парковок;Трансфер
+"""Домино""";4;200;г. Москва, ул. Кувырина, д2;Россия;69;no
+"""Eleon""";2;644;Московская обл, г. Королёв, ул Строителей, д55;РФ;330;Да
+Амиго;5;110;г. Куйбышев,ул. Лесная, дом 89, кв 3;Russia;0;нет
+Excel winner';1;500;New-york, st. Stupid, house 22;United States;300;yes
+сто одна ночь у Петровича;5;660;"19 Avenue de la paix
+1202 Geneva
+Switzerland";Switzerland;0;имеется
+Mandapa, a Ritz-Carlton Reserve;5;3333;Jl. Kedewatan, Banjar Kedewatan | Gianyar, Bali, Убуд 80571, Индонезия;Индонезия;8888;имеется
+Viroth's Hotel;4;4432;24 Street | Wat Bo Village, Сием Рип 17252, Камбоджа;Камбоджа;0;sure
+Tulemar Bungalows & Villas;1;2032;Tulemar Gardens, Национальный парк Мануэль Антонио 6350, Коста-Рика;Costa-Rika;0;есть
+Тулемар Бунгало & Виллас;5;443;Tulemar Gardens, Национальный парк Мануэль Антонио 6352, Коста-Рика;Costa-Rika;0;нету
+Umaid Bhawan Palace Jodhpur;3;2212;Near Circuit House, Джодхпур 342006, Индия;Индия;1;ДА
+Atlantis, The Palm;4;1537;Palm Jumeirah;Индия;2;нету
+Al Bustan Rotana Hotel;4;644;Al Garhoud;Индия;3;ДА
+Al Maha Desert Resort;4;110;Al Ain Road;Россия;69;ДА
+Burj Al Arab;4;500;Jumeirah Beach Road;РФ;330;ДА
+Al Qasr Madinat Resort Jumeirah;4;1000;Madinat Jumeirah;Russia;0;ДА
+Bab Al Shams Desert Resort & Spa;4;660;Jumeirah;United States;300;no
+City Season Hotel;4;3333;Saeed Street;Африка;0;Да
+Concorde Hotel & Residence;4;4332;Al Maktoum Road, Deira;Switzerland;0;нет
+Coral Boutique Hotel;2;2032;Sheikh Zayed Road;Индонезия;8888;yes
+Coral Boutique Villa;5;443;Al Barsha;Камбоджа;0;nope
+Dar Al Masyaf Hotel;1;2212;Madinat Jumeirah;Costa-Rika;0;имеется
+Desert Palm Dubai;4;26;Al Awir Road;Costa-Rika;0;имеется
+Dusit Dubai;5;174;Sheikh Zayed Road;Индия;1;sure
+Habtoor Grand Resort & Spa;5;261;Al Sufoud Road;Индия;15;есть
+The Harbour Hotel & Residence;4;232;Al Sufoud Road;Индия;16;нету
+Grand Hyatt Dubai;1;644;Deira Corniche;Индия;69;ДА
+Jumeirah Beach Hotel;5;110;Jumeirah;Индия;330;ДА
+Le Meridien Hotel;3;500;Airport Road;Россия;0;ДА
+Le Royal Meridien Beach Resort & Spa;4;1000;Al Sufouh;РФ;300;no
+Landmark Hotel Baniyas;4;665;Baniyas;Russia;0;Да
+Landmark Plaza Baniyas;4;3333;Baniyas;United States;0;нет
+Landmark Grand Hotel;4;654;Al-Riqqa;Африка;8888;yes
+Landmark Riqqa;2;2032;Al-Riqqa;Switzerland;0;nope
+Ramada Deira;5;564;Salah Al-Din, Deira.;Индонезия;0;имеется
+Madinat Mina A'Salam;1;21;Jumeirah Road, Jumeirah Beach;Камбоджа;0;имеется
+Marine Beach Resort & Spa;4;195;Jumeirah Beach Road;Costa-Rika;0;sure
+Metropolitan Hotel;5;212;Al Maktoum Street Deira;Costa-Rika;28;есть
+Grand Millennium Dubai;5;644;Sheikh Zayed Road;Индия;69;нету
+Millennium Plaza Hotel;4;110;Sheikh Zayed Road;Индия;330;ДА
+Radisson Blu Hotel Dubai;1;321;Deira;Индия;0;ДА
+Raffles Hotel;5;32;Sheikh Rashid Road;Россия;0;ДА
+Ritz Carlton Hotel;3;132;Jumeirah;РФ;0;нету
+Shangri-La Hotel;4;3333;Sheikh Zayed Road;Russia;0;нету
+Sheraton Deira Hotel;2;456;Al Muteena Street;United States;8888;нету
+Sheraton Dubai Creek Hotel & Towers;5;2032;Deira;Африка;0;no
+Sheraton Jumeirah Beach Resort & Towers;1;65;Al Sufouh Road;Switzerland;0;Да
+Somerset Jadaf;4;65;Near Al Wasl hospital;Индонезия;0;нет
+InterContinental Dubai Festival City;5;619;Dubai Festival City;Камбоджа;1;yes
+Taj Palace Hotel Dubai;5;159;Deira, Dubai;Costa-Rika;40;nope
+JW Marriott Hotel Dubai;4;644;Abu Baker Al Siddique Road;Costa-Rika;41;имеется
+Renaissance Hotel;1;110;Deira, Dubai;Индия;42;имеется
+Jumeirah Emirates Towers Hotel;5;56;Sheikh Zayed Road;Индия;43;sure
+Grosvenor House West Marina Beach Dubai;3;6;Dubai Marina;Индия;69;есть
+Park Hyatt Dubai;4;65;Al Qutaeyat Road;Россия;330;нету
+Mina A' Salam Madinat Jumeirah;4;6;Jumeirah Road;РФ;нет;ДА
+Al Qasr at Madinat;4;546;Al Sufoud Road;Russia;300;нету
+Kempinski Hotel Mall of the Emirates;2;2032;Sheikh Zayed Road;United States;0;ДА
+One & Only Arabian Court at Royal Mirage;5;8;Jumeirah Beach Road;Африка;0;ДА
+One&Only Residence & Spa at Royal Mirage;1;54;Jumeirah Beach Road;Switzerland;32;ДА
+The Palace The Old Town;4;242;Old Town Island;Индонезия;0;no
+Al Murooj Rotana Dubai;5;247;Al Saffa St, Sheikh Zayed Road;Камбоджа;32;Да
+The Monarch Dubai;5;234;Sheikh Zayed Road;Costa-Rika;23;нет
+Metropolitan Dubai Hotel;4;324;Sheikh Zayed Road;Costa-Rika;1;yes
+Mina A Salam Beach Hotel Dubai;1;644;Jumeirah Beach;Индия;55;nope
+Sofitel - Dubai Jumeirah Beach;5;110;Jumeirah, Dubai Marina, Jumeirah Beach Residence;Индия;56;имеется
+The World Trade Centre Hotel Dubai;3;89;World Trade Center Road;Россия;57;имеется
+Hyatt Regency Dubai;4;564;Al Khaleej Road;РФ;58;sure
+Jebel Ali Hotel & Golf Resort Dubai;4;6546;Jebel Ali Free Zone;Russia;69;есть
+Le Meridien Mina Seyahi Resort Dubai;4;3333;Jumeirah Beach;United States;330;нету
+Al Bustan Centre Residence Dubai;2;486;Al Quasis Road, Deira;Африка;322;ДА
+Beit Al Bahar Beach Villas Dubai;5;2032;Jumeirah Beach Road;Switzerland;321;ДА
+Crowne Plaza Hotel Dubai;1;65;Sheikh Zayed Road;Индонезия;0;нету
+Dubai Marine Beach Resort & Spa Dubai;4;654;Jumeirah Beach Road;Камбоджа;0;нету
+Le Meridien Residence Dubai;5;65;Deira, Dubai;Costa-Rika;65;нету
+Radisson Royal Hotel;5;65;Sheikh Zayed Road,;Costa-Rika;32;нету
+Coral Deira Hotel;4;234;Deira, Dubai;Индия;12;нету
+Al Sondos Suites;1;432;Deira, Dubai;Индия;10;no
+Samaya Hotel;5;644;Deira, Dubai;Индия;1;Да
+M?venpick Hotel;3;110;Bur Dubai;Россия;70;нет
+Al Murooj Rotana Hotel and Suites;4;654;Sheikh Zayed Road;РФ;71;yes
+Hilton Dubai Jumeirah Resort;4;542;Jumeirah Beach;Russia;72;nope
+Hilton Dubai Creek Hotel;4;321;Dubai Creek;United States;73;имеется
+JAL hotel tower;2;3333;Sheikh Zayed Road;Африка;69;имеется
+Crowne Plaza Dubai Festival City;2;56;Dubai Festival City;Switzerland;330;sure
+Gold Swiss hotel, Dubai;5;2315;Meena Road, Bur Dubai;Индонезия;нет;есть
+Royal Amwaj Resort and Spa;1;231;Palm Jumeirah;Камбоджа;300;нету
+Ibis Al Barsha Hotel Dubai;4;321;Sheikh Zayed Road;Costa-Rika;0;ДА
+Arabian Park Hotel;5;234;Al Wasl District;Costa-Rika;0;no
+Ottoman Palace Hotel and resort;5;448;Palm Jumeirah;Индия;345;Да
+Dhow Palace (Dubai);4;252;Mankhool road, Bur Dubai;Индия;0;нет
+Majestic Hotel (Dubai);1;234;Bur Dubai;Россия;0;yes
+Cassells Al Barsha Hotel;5;644;Al Barsha;РФ;0;nope
+Gloria Hotel;3;110;Sheikh Zayed Road;Russia;1;имеется
+JW Marriott Marquis Dubai Tower 1;4;65;Business Bay;United States;85;имеется
+JW Marriott Marquis Dubai Tower 2;4;65;Business Bay;Африка;86;sure
+Holiday Inn Dubai Al Barsha;4;65;Sheikh Zayed Road;Switzerland;87;есть
+Armani Hotel Dubai;2;23;Downtown Dubai;Индонезия;88;нету
+The Fairmont Palm Hotel & Resort;5;32;Palm Jumeirah;Камбоджа;89;ДА
+Astoria Hotel;1;41;Al Fahidi St.;Costa-Rika;90;есть
+Ambassador Hotel;4;654;Al Fahidi St.;Costa-Rika;400;нету
